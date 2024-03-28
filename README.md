@@ -14,5 +14,5 @@ I'm studying web development at [Rocketseat](https://app.rocketseat.com.br/home)
 
   #### Contacts
 
-  -📧 Email: cassianacaires13@gmail.com
-  -👤 Linkedin: https://www.linkedin.com/in/cassiana-caires-186a1122b/
+  - 📧 Email: cassianacaires13@gmail.com
+  - 👤 Linkedin: https://www.linkedin.com/in/cassiana-caires-186a1122b/
